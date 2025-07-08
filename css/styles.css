@@ -601,7 +601,7 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  height: auto;
+  height: 6.5em;
 }
 
 .img-thumbnail {
@@ -610,7 +610,7 @@ progress {
   border: 1px solid var(--bs-border-color);
   border-radius: 100%;
   max-width: 100%;
-  height: auto;
+  height:auto;
 }
 
 .figure {
